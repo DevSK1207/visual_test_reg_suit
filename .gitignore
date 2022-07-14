@@ -1,3 +1,5 @@
 node_modules
 .tmp_data/
-.env
+.env.reg
+.reg/
+/directory_contains_actual_images/

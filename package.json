@@ -4,12 +4,23 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "reg-suit": "reg-suit run"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "mkdirp": "^1.0.4",
-    "puppeteer": "^15.4.0"
+    "puppeteer": "^15.4.0",
+    "reg-keygen-git-hash-plugin": "^0.12.1",
+    "reg-notify-chatwork-plugin": "^0.12.1",
+    "reg-notify-github-plugin": "^0.12.1",
+    "reg-notify-github-with-api-plugin": "^0.12.1",
+    "reg-notify-gitlab-plugin": "^0.12.1",
+    "reg-notify-slack-plugin": "^0.12.1",
+    "reg-publish-gcs-plugin": "^0.12.1",
+    "reg-publish-s3-plugin": "^0.12.1",
+    "reg-simple-keygen-plugin": "^0.12.1",
+    "reg-suit": "^0.12.1"
   }
 }
