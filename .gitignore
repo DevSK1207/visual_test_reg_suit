@@ -1,5 +1,5 @@
 node_modules
 .tmp_data/
-.env.reg
+.env
 .reg/
-/directory_contains_actual_images/
+directory_contains_actual_images/
